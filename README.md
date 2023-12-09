@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nro-click
-- 👀 I’m interested in Python, Django, Flask, and open source projects
-- 🌱 I’m currently learning with The Odin Project and working on Python texts
+- 👀 I’m interested in Java, Python, Django, Flask, and open source projects
+- 🌱 I’m currently learning Java and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
